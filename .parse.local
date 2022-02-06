@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "I9FCT": {
+      "applicationId": "0Gi3NSxdGbl32WhRCVTErJCjnXYYeTwH40AJjIXc"
+    },
+    "_default": {
+      "link": "I9FCT"
+    }
+  }
+}
